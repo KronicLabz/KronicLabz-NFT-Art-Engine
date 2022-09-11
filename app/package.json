@@ -1,0 +1,9 @@
+{
+  "name": "kroniclabz-nft-art-engine",
+  "version": "0.0.6",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+    "@electron/remote": "1.2.0"
+  }
+}
